@@ -1,0 +1,15 @@
+C:\Projects\CSharp\FloatingVariables\FloatingVariables\bin\Debug\net6.0\FloatingVariables.exe
+C:\Projects\CSharp\FloatingVariables\FloatingVariables\bin\Debug\net6.0\FloatingVariables.deps.json
+C:\Projects\CSharp\FloatingVariables\FloatingVariables\bin\Debug\net6.0\FloatingVariables.runtimeconfig.json
+C:\Projects\CSharp\FloatingVariables\FloatingVariables\bin\Debug\net6.0\FloatingVariables.dll
+C:\Projects\CSharp\FloatingVariables\FloatingVariables\bin\Debug\net6.0\FloatingVariables.pdb
+C:\Projects\CSharp\FloatingVariables\FloatingVariables\obj\Debug\net6.0\FloatingVariables.csproj.AssemblyReference.cache
+C:\Projects\CSharp\FloatingVariables\FloatingVariables\obj\Debug\net6.0\FloatingVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CSharp\FloatingVariables\FloatingVariables\obj\Debug\net6.0\FloatingVariables.AssemblyInfoInputs.cache
+C:\Projects\CSharp\FloatingVariables\FloatingVariables\obj\Debug\net6.0\FloatingVariables.AssemblyInfo.cs
+C:\Projects\CSharp\FloatingVariables\FloatingVariables\obj\Debug\net6.0\FloatingVariables.csproj.CoreCompileInputs.cache
+C:\Projects\CSharp\FloatingVariables\FloatingVariables\obj\Debug\net6.0\FloatingVariables.dll
+C:\Projects\CSharp\FloatingVariables\FloatingVariables\obj\Debug\net6.0\refint\FloatingVariables.dll
+C:\Projects\CSharp\FloatingVariables\FloatingVariables\obj\Debug\net6.0\FloatingVariables.pdb
+C:\Projects\CSharp\FloatingVariables\FloatingVariables\obj\Debug\net6.0\FloatingVariables.genruntimeconfig.cache
+C:\Projects\CSharp\FloatingVariables\FloatingVariables\obj\Debug\net6.0\ref\FloatingVariables.dll
