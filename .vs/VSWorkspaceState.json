@@ -1,11 +1,13 @@
 {
   "ExpandedNodes": [
     "",
+    "\\DoubleVariables",
+    "\\DoubleVariables\\DoubleVariables",
     "\\HelloWorld",
     "\\HelloWorld\\ConsoleApp1",
     "\\Variables",
     "\\Variables\\Variables"
   ],
-  "SelectedNode": "\\HelloWorld\\ConsoleApp1\\Program.cs",
+  "SelectedNode": "\\DoubleVariables\\DoubleVariables.sln",
   "PreviewInSolutionExplorer": false
 }

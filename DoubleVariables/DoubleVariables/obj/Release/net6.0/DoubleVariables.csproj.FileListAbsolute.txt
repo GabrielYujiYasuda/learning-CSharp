@@ -1,0 +1,15 @@
+C:\Projects\CSharp\DoubleVariables\DoubleVariables\bin\Release\net6.0\DoubleVariables.exe
+C:\Projects\CSharp\DoubleVariables\DoubleVariables\bin\Release\net6.0\DoubleVariables.deps.json
+C:\Projects\CSharp\DoubleVariables\DoubleVariables\bin\Release\net6.0\DoubleVariables.runtimeconfig.json
+C:\Projects\CSharp\DoubleVariables\DoubleVariables\bin\Release\net6.0\DoubleVariables.dll
+C:\Projects\CSharp\DoubleVariables\DoubleVariables\bin\Release\net6.0\DoubleVariables.pdb
+C:\Projects\CSharp\DoubleVariables\DoubleVariables\obj\Release\net6.0\DoubleVariables.csproj.AssemblyReference.cache
+C:\Projects\CSharp\DoubleVariables\DoubleVariables\obj\Release\net6.0\DoubleVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CSharp\DoubleVariables\DoubleVariables\obj\Release\net6.0\DoubleVariables.AssemblyInfoInputs.cache
+C:\Projects\CSharp\DoubleVariables\DoubleVariables\obj\Release\net6.0\DoubleVariables.AssemblyInfo.cs
+C:\Projects\CSharp\DoubleVariables\DoubleVariables\obj\Release\net6.0\DoubleVariables.csproj.CoreCompileInputs.cache
+C:\Projects\CSharp\DoubleVariables\DoubleVariables\obj\Release\net6.0\DoubleVariables.dll
+C:\Projects\CSharp\DoubleVariables\DoubleVariables\obj\Release\net6.0\refint\DoubleVariables.dll
+C:\Projects\CSharp\DoubleVariables\DoubleVariables\obj\Release\net6.0\DoubleVariables.pdb
+C:\Projects\CSharp\DoubleVariables\DoubleVariables\obj\Release\net6.0\DoubleVariables.genruntimeconfig.cache
+C:\Projects\CSharp\DoubleVariables\DoubleVariables\obj\Release\net6.0\ref\DoubleVariables.dll

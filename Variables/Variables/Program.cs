@@ -7,7 +7,7 @@ class Program
         string closingMessage = "Press enter to close!";
         int age = 32;
 
-        Console.WriteLine(age);
+        Console.WriteLine("Minha idade é: " + age);
 
         Console.WriteLine(closingMessage);
         Console.ReadLine();
