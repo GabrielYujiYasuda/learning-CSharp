@@ -1,13 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\DoubleVariables",
-    "\\DoubleVariables\\DoubleVariables",
+    "\\FloatingVariables",
+    "\\FloatingVariables\\FloatingVariables",
     "\\HelloWorld",
     "\\HelloWorld\\ConsoleApp1",
     "\\Variables",
     "\\Variables\\Variables"
   ],
-  "SelectedNode": "\\DoubleVariables\\DoubleVariables.sln",
+  "SelectedNode": "\\Variables\\Variables\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
