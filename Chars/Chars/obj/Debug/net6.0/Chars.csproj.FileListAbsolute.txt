@@ -1,0 +1,15 @@
+C:\Projects\CSharp\Chars\Chars\obj\Debug\net6.0\Chars.csproj.AssemblyReference.cache
+C:\Projects\CSharp\Chars\Chars\obj\Debug\net6.0\Chars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CSharp\Chars\Chars\obj\Debug\net6.0\Chars.AssemblyInfoInputs.cache
+C:\Projects\CSharp\Chars\Chars\obj\Debug\net6.0\Chars.AssemblyInfo.cs
+C:\Projects\CSharp\Chars\Chars\obj\Debug\net6.0\Chars.csproj.CoreCompileInputs.cache
+C:\Projects\CSharp\Chars\Chars\bin\Debug\net6.0\Chars.exe
+C:\Projects\CSharp\Chars\Chars\bin\Debug\net6.0\Chars.deps.json
+C:\Projects\CSharp\Chars\Chars\bin\Debug\net6.0\Chars.runtimeconfig.json
+C:\Projects\CSharp\Chars\Chars\bin\Debug\net6.0\Chars.dll
+C:\Projects\CSharp\Chars\Chars\bin\Debug\net6.0\Chars.pdb
+C:\Projects\CSharp\Chars\Chars\obj\Debug\net6.0\Chars.dll
+C:\Projects\CSharp\Chars\Chars\obj\Debug\net6.0\refint\Chars.dll
+C:\Projects\CSharp\Chars\Chars\obj\Debug\net6.0\Chars.pdb
+C:\Projects\CSharp\Chars\Chars\obj\Debug\net6.0\Chars.genruntimeconfig.cache
+C:\Projects\CSharp\Chars\Chars\obj\Debug\net6.0\ref\Chars.dll
