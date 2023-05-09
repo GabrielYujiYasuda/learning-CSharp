@@ -1,0 +1,15 @@
+C:\Projects\CSharp\Strings\Strings\obj\Debug\net6.0\Strings.csproj.AssemblyReference.cache
+C:\Projects\CSharp\Strings\Strings\obj\Debug\net6.0\Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CSharp\Strings\Strings\obj\Debug\net6.0\Strings.AssemblyInfoInputs.cache
+C:\Projects\CSharp\Strings\Strings\obj\Debug\net6.0\Strings.AssemblyInfo.cs
+C:\Projects\CSharp\Strings\Strings\obj\Debug\net6.0\Strings.csproj.CoreCompileInputs.cache
+C:\Projects\CSharp\Strings\Strings\bin\Debug\net6.0\Strings.exe
+C:\Projects\CSharp\Strings\Strings\bin\Debug\net6.0\Strings.deps.json
+C:\Projects\CSharp\Strings\Strings\bin\Debug\net6.0\Strings.runtimeconfig.json
+C:\Projects\CSharp\Strings\Strings\bin\Debug\net6.0\Strings.dll
+C:\Projects\CSharp\Strings\Strings\bin\Debug\net6.0\Strings.pdb
+C:\Projects\CSharp\Strings\Strings\obj\Debug\net6.0\Strings.dll
+C:\Projects\CSharp\Strings\Strings\obj\Debug\net6.0\refint\Strings.dll
+C:\Projects\CSharp\Strings\Strings\obj\Debug\net6.0\Strings.pdb
+C:\Projects\CSharp\Strings\Strings\obj\Debug\net6.0\Strings.genruntimeconfig.cache
+C:\Projects\CSharp\Strings\Strings\obj\Debug\net6.0\ref\Strings.dll
