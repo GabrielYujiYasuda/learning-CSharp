@@ -1,0 +1,15 @@
+C:\Projects\CSharp\CalculaPoupanca\DoubleFor\bin\Debug\net6.0\DoubleFor.exe
+C:\Projects\CSharp\CalculaPoupanca\DoubleFor\bin\Debug\net6.0\DoubleFor.deps.json
+C:\Projects\CSharp\CalculaPoupanca\DoubleFor\bin\Debug\net6.0\DoubleFor.runtimeconfig.json
+C:\Projects\CSharp\CalculaPoupanca\DoubleFor\bin\Debug\net6.0\DoubleFor.dll
+C:\Projects\CSharp\CalculaPoupanca\DoubleFor\bin\Debug\net6.0\DoubleFor.pdb
+C:\Projects\CSharp\CalculaPoupanca\DoubleFor\obj\Debug\net6.0\DoubleFor.csproj.AssemblyReference.cache
+C:\Projects\CSharp\CalculaPoupanca\DoubleFor\obj\Debug\net6.0\DoubleFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CSharp\CalculaPoupanca\DoubleFor\obj\Debug\net6.0\DoubleFor.AssemblyInfoInputs.cache
+C:\Projects\CSharp\CalculaPoupanca\DoubleFor\obj\Debug\net6.0\DoubleFor.AssemblyInfo.cs
+C:\Projects\CSharp\CalculaPoupanca\DoubleFor\obj\Debug\net6.0\DoubleFor.csproj.CoreCompileInputs.cache
+C:\Projects\CSharp\CalculaPoupanca\DoubleFor\obj\Debug\net6.0\DoubleFor.dll
+C:\Projects\CSharp\CalculaPoupanca\DoubleFor\obj\Debug\net6.0\refint\DoubleFor.dll
+C:\Projects\CSharp\CalculaPoupanca\DoubleFor\obj\Debug\net6.0\DoubleFor.pdb
+C:\Projects\CSharp\CalculaPoupanca\DoubleFor\obj\Debug\net6.0\DoubleFor.genruntimeconfig.cache
+C:\Projects\CSharp\CalculaPoupanca\DoubleFor\obj\Debug\net6.0\ref\DoubleFor.dll
