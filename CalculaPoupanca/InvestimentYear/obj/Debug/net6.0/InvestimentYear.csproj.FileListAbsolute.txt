@@ -1,0 +1,15 @@
+C:\Projects\CSharp\CalculaPoupanca\InvestimentYear\bin\Debug\net6.0\InvestimentYear.exe
+C:\Projects\CSharp\CalculaPoupanca\InvestimentYear\bin\Debug\net6.0\InvestimentYear.deps.json
+C:\Projects\CSharp\CalculaPoupanca\InvestimentYear\bin\Debug\net6.0\InvestimentYear.runtimeconfig.json
+C:\Projects\CSharp\CalculaPoupanca\InvestimentYear\bin\Debug\net6.0\InvestimentYear.dll
+C:\Projects\CSharp\CalculaPoupanca\InvestimentYear\bin\Debug\net6.0\InvestimentYear.pdb
+C:\Projects\CSharp\CalculaPoupanca\InvestimentYear\obj\Debug\net6.0\InvestimentYear.csproj.AssemblyReference.cache
+C:\Projects\CSharp\CalculaPoupanca\InvestimentYear\obj\Debug\net6.0\InvestimentYear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CSharp\CalculaPoupanca\InvestimentYear\obj\Debug\net6.0\InvestimentYear.AssemblyInfoInputs.cache
+C:\Projects\CSharp\CalculaPoupanca\InvestimentYear\obj\Debug\net6.0\InvestimentYear.AssemblyInfo.cs
+C:\Projects\CSharp\CalculaPoupanca\InvestimentYear\obj\Debug\net6.0\InvestimentYear.csproj.CoreCompileInputs.cache
+C:\Projects\CSharp\CalculaPoupanca\InvestimentYear\obj\Debug\net6.0\InvestimentYear.dll
+C:\Projects\CSharp\CalculaPoupanca\InvestimentYear\obj\Debug\net6.0\refint\InvestimentYear.dll
+C:\Projects\CSharp\CalculaPoupanca\InvestimentYear\obj\Debug\net6.0\InvestimentYear.pdb
+C:\Projects\CSharp\CalculaPoupanca\InvestimentYear\obj\Debug\net6.0\InvestimentYear.genruntimeconfig.cache
+C:\Projects\CSharp\CalculaPoupanca\InvestimentYear\obj\Debug\net6.0\ref\InvestimentYear.dll
