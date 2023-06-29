@@ -2,12 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\FloatingVariables",
-    "\\FloatingVariables\\FloatingVariables",
-    "\\HelloWorld",
-    "\\HelloWorld\\ConsoleApp1",
-    "\\Variables",
-    "\\Variables\\Variables"
+    "\\FloatingVariables\\FloatingVariables"
   ],
-  "SelectedNode": "\\FloatingVariables\\FloatingVariables\\Program.cs",
+  "SelectedNode": "\\FloatingVariables\\FloatingVariables.sln",
   "PreviewInSolutionExplorer": false
 }
